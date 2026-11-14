@@ -1,5 +1,5 @@
 :root {
-  --backround: black;
+  --background: black;
   --text: white;
 }
 
@@ -20,5 +20,3 @@ textarea,
 select {
   color: inherit;
 }
-
-button, 
