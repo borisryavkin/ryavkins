@@ -1,22 +1,10 @@
 :root {
-  --background: black;
+  --background: #171d25;
   --text: white;
 }
 
-body.bright {
-  --background: white;
-  --text: black;
-}
-
 body {
-  background-color: var (var(--background));
+  background-color: var(--background);
   color: var(--text);
-}
-
-a,
-button,
-input,
-textarea,
-select {
-  color: inherit;
+  font-family: Motiva Sans, Motiva Sans fallback, Arial, Helvetica, sans-serif;
 }
