@@ -11,8 +11,3 @@ body {
   color: var(--text);
   font-family: Motiva Sans, Motiva Sans fallback, Arial, Helvetica, sans-serif;
 }
-
-body.bright {
-  background-color: white;
-  color: black;
-}
